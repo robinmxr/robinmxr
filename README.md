@@ -3,8 +3,8 @@
 
 This is Reajul Islam Mojumder Robin
 
-- 🔭 I’m currently working on ... Laravel,NodeJs,Django
-- 🌱 I’m currently learning ... ReactJS
+- 🔭 I’m currently working on ... ASP.NET Core,ReactJS
+- 🌱 I’m currently learning ... NodeJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
