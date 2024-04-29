@@ -3,8 +3,8 @@
 
 This is Reajul Islam Mojumder Robin
 
-- 🔭 I’m currently working on ... ASP.NET Core,ReactJS,Javascript
-- 🌱 I’m currently learning ... dotNet core , mvc , blazor , signalR
+- 🔭 I’m currently working on ... .NET Core,ReactJS,Angular
+- 🌱 I’m currently learning ... SignalR , 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
