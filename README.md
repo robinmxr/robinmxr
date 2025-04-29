@@ -3,7 +3,7 @@
 
 This is Reajul Islam Mojumder Robin
 
-- 🔭 I’m currently working on ... .NET Core,.NET Framework,ReactJS,Angular
+- 🔭 I’m currently working on ... .NET Core,.NET Framework,ReactJS,Angular, Laravel
 - 🌱 I’m currently learning ... Blazor , Kubernetes
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
