@@ -1,14 +1,59 @@
-### Hi there 👋
+# Hi there, I'm Robin 👋  
 
+💻 **Engineer | Software Developer | Problem Solver**  
 
-This is Reajul Islam Mojumder Robin
+I’m a software engineer from Dhaka, Bangladesh 🇧🇩, passionate about building scalable systems, crafting APIs, and experimenting with new technologies.  
+Currently focusing on **.NET, Laravel, React, and system design** — with side interests in **AI/ML** and developer productivity tools.  
 
-- 🔭 I’m currently working on ... .NET Core,.NET Framework,ReactJS,Angular, Laravel
-- 🌱 I’m currently learning ... Blazor , Kubernetes
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔹 2+ years of experience in **backend development & payment systems** (Visa, Monavate, BlueSnap, TSYS integrations)  
+- 🔹 Experienced with **.NET Core, Laravel, React, and SQL/NoSQL databases**  
+- 🔹 Exploring **cloud-native architectures**: Docker, Kubernetes, Redis, and messaging queues  
+- 🔹 Practicing **DSA & System Design** to grow into a **System Architect** role  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Databases & Tools**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- 🏦 **Payment Pipeline Integrations** — worked with Visa, Monavate, BlueSnap, TSYS  
+- 🎨 **Auction Platform (MVP)** — art & handcrafted goods marketplace (in progress)  
+- 📊 **Employee Performance Tracker API** — .NET Core API with reporting & analytics  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robinmxr&show_icons=true&theme=tokyonight" alt="Robin's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinmxr&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+
