@@ -2,7 +2,7 @@
 
 💻 **Engineer | Software Developer | Problem Solver**  
 
-I’m a software engineer from Dhaka, Bangladesh 🇧🇩, passionate about building scalable systems, crafting APIs, and experimenting with new technologies.  
+I’m a software engineer from Dhaka, Bangladesh, passionate about building scalable systems, crafting APIs, and experimenting with new technologies.  
 Currently focusing on **.NET, Laravel, React, and system design** — with side interests in **AI/ML** and developer productivity tools.  
 
 ---
