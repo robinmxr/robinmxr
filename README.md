@@ -8,6 +8,7 @@ Currently focusing on **.NET, Laravel, React, and system design** — with side 
 ---
 
 ## 🚀 About Me
+
 - 🔹 2+ years of experience in **backend development & payment systems** (Visa, Monavate, BlueSnap, TSYS integrations)  
 - 🔹 Experienced with **.NET Core, Laravel, React, and SQL/NoSQL databases**  
 - 🔹 Exploring **cloud-native architectures**: Docker, Kubernetes, Redis, and messaging queues  
@@ -17,6 +18,7 @@ Currently focusing on **.NET, Laravel, React, and system design** — with side 
 
 ## 🛠️ Tech Stack
 
+
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -25,6 +27,8 @@ Currently focusing on **.NET, Laravel, React, and system design** — with side 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Databases & Tools**  
+
+
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
