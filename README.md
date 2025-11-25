@@ -42,7 +42,6 @@ Currently focusing on **.NET, Laravel, React, and system design** — with side 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinmxr&show_icons=true&theme=tokyonight" alt="Robin's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinmxr&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
