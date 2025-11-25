@@ -20,6 +20,8 @@ Currently focusing on **.NET, Laravel, React, and system design** — with side 
 
 
 **Languages & Frameworks**  
+
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
