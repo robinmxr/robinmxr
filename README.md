@@ -46,12 +46,7 @@ Currently focusing on **.NET, Laravel, React, and system design** — with side 
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinmxr&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-mxr)
