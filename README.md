@@ -9,8 +9,8 @@ Currently focusing on **.NET, React, Angular and System Design** — with side i
 
 ## 🚀 About Me
 
-- 🔹 2+ years of experience in **backend development & payment systems** (Visa, Monavate, BlueSnap, TSYS integrations)  
-- 🔹 Experienced with **.NET Core, Laravel, React, and SQL/NoSQL databases**  
+- 🔹 3 years of experience in **backend development & enterprise systems** 
+- 🔹 Experienced with **.NET Core, Angular, React, and SQL/NoSQL databases**  
 - 🔹 Exploring **cloud-native architectures**: Docker, Kubernetes, Redis, and messaging queues  
 - 🔹 Practicing **DSA & System Design** to grow into a **System Architect** role  
 
