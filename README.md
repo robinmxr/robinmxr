@@ -39,23 +39,7 @@ Currently focusing on **.NET Core, React, Angular, and System Design** — with 
 
 ---
 
-## 💼 Experience
 
-**Software Engineer** @ Adaptive Enterprise Ltd  
-*Dec 2025 – Present*
-
-- Built core healthcare microservices (Prescription, Appointment, Telemedicine) using .NET 8, Clean Architecture, and CQRS/MediatR  
-- Designed appointment booking with slot-hold lifecycle and concurrent flow resolution via WebSockets/SSE  
-- Deployed on Docker Swarm/K3s with GitLab CI/CD, operated Kafka/RabbitMQ messaging infrastructure  
-
-**Software Engineer I** @ Teton Private Ltd (ConnexPay)  
-*Sep 2023 – Nov 2025*
-
-- Built secure, high-throughput ASP.NET Core Web APIs for ConnexPay (US fintech), aligned with PCI-DSS  
-- Integrated Visa, TSYS, and BlueSnap payment gateways with webhook/IPN handling  
-- Automated client onboarding workflow, cutting setup time by 30%  
-
----
 
 ## 📌 Featured Projects  
 
