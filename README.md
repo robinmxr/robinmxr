@@ -43,7 +43,7 @@ Currently focusing on **.NET Core, React, Angular, and System Design** — with 
 
 ## 📌 Featured Projects  
 
-- 🐾 **mypaw** — Modular monolith pet healthcare platform with pgvector semantic search and RAG triage  
+- 🐾 **mymeaw** — Modular monolith pet healthcare platform with pgvector semantic search and RAG triage  
   `.NET 8` `Angular` `PostgreSQL` `pgvector` `Kubernetes`  
 - 🧠 **The Algomist** — DSA preparation tool with AI-generated topic breakdowns via Grok AI  
   `React` `TypeScript` `Tailwind CSS`  
